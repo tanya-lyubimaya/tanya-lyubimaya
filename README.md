@@ -1,7 +1,7 @@
-<h1 align="center">Hello there! <img src = "media/wave.gif" width = 30px></h1>
+<h1 align="center">Hello there! <img src = "https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/wave.gif?raw=true" width = 30px></h1>
 
 <div class="container">
-    <img src="media/dog_wink.gif" align="right">&nbsp;
+    <img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/dog_wink.gif?raw=true" align="right">&nbsp;
     <h4>I'm Tanya Lyubimaya, backend developer currently living in Moscow, Russia.</h4>
     <h4>I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
     <h4>I'm learning Go through small projects on the side.</h4>
@@ -42,7 +42,7 @@
 
 <br>
 
-## <img src="media/statistics.webp" width="30px"/>&nbsp;My Statistics
+## <img src="https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/main/media/statistics.webp" width="30px"/>&nbsp;My Statistics
 
 <div align="left">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tanya-lyubimaya&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=EE4779&text_color=C9D1D9&icon_color=00BAE9" />
@@ -65,12 +65,13 @@
     <a href="mailto:tatyana.lyubimaya.work@gmail.com">
         <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
     </a>
+    <!--TODO: Add LinkedIn-->
 </div>
 
 <br>
 
 <div align="center">
-    <img src=media/dog_hello.gif style="max-width: 100%">
+    <img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/dog_hello.gif?raw=true" style="max-width: 100%">
 </div>
 
 <br>
