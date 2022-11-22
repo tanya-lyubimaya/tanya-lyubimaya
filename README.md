@@ -1,17 +1,13 @@
 <h1 align="center">Hello there! <img src = "media/wave.gif" width = 30px></h1>
 
-<div class="container" style="display: flex; align-items: top; justify-content: center">
-    <div class="image" style="flex-basis: 40%">
-        <img src="media/dog_wink.gif" style="max-width: 100%">
-    </div>
-    <div class="text" style="font-size: 20px; padding-left: 20px">
-        <p>I'm Tanya Lyubimaya, backend developer currently living in Moscow, Russia. I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</p>
-        <p>I'm learning Go through small projects on the side.</p>
-        <p>🌱 Currently working on a <a href="https://github.com/tanya-lyubimaya/translator">translator</a></p>
-    </div>
+<div class="container">
+    <img src="media/dog_wink.gif" align="right">&nbsp;
+    <h4>I'm Tanya Lyubimaya, backend developer currently living in Moscow, Russia. I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
+    <h4>I'm learning Go through small projects on the side.</h4>
+    <h4>🌱 Currently working on a <a href="https://github.com/tanya-lyubimaya/translator">translator</a></h4>
 </div>
 
-<br>
+<br><br>
 
 <p>
 <div align="center">
@@ -56,23 +52,6 @@
 <br>
 
 ## ✉️ Contact Me
-
-<!--
-<div class="container" style="display: flex; align-items: top; justify-content: start">
-    <div class="image" style="flex-basis: 40%">
-        <img src=media/dog_hello.gif style="max-width: 100%">
-    </div>
-    <div class="text" style="font-size: 20px; padding-left: 20px">
-        <a href="https://t.me/tatyana_lyubimaya">
-            <img src="https://img.shields.io/badge/-telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=white">
-        </a>
-        <br>
-        <a href="mailto:tatyana.lyubimaya.work@gmail.com">
-            <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
-        </a>
-    </div>
-</div>
--->
 
 <br>
 
