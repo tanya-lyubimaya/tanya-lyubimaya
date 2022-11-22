@@ -2,7 +2,8 @@
 
 <div class="container">
     <img src="media/dog_wink.gif" align="right">&nbsp;
-    <h4>I'm Tanya Lyubimaya, backend developer currently living in Moscow, Russia. I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
+    <h4>I'm Tanya Lyubimaya, backend developer currently living in Moscow, Russia.</h4>
+    <h4>I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
     <h4>I'm learning Go through small projects on the side.</h4>
     <h4>🌱 Currently working on a <a href="https://github.com/tanya-lyubimaya/translator">translator</a></h4>
 </div>
