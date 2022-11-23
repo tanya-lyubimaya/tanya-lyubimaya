@@ -15,11 +15,11 @@
     <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&labelColor=white">
     <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=white">
     <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=white">
-    <img src="https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&labelColor=white">
+    <img src="https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&labelColor=white&logoColor=4479A1">
     <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=white">
-    <img src="https://img.shields.io/badge/-quasar-1976D2?style=for-the-badge&logo=quasar&labelColor=white">
+    <img src="https://img.shields.io/badge/-quasar-1976D2?style=for-the-badge&logo=quasar&labelColor=white&logoColor=1976D2">
     <img src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&labelColor=white">
-    <img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&labelColor=white">
+    <img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&labelColor=white&logoColor=1572B6">
     <!--TODO: PostgreSQL, MongoDB, SQLite, Docker, Kubernetes-->
 </div>
 </p>
