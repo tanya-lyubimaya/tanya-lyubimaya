@@ -92,6 +92,6 @@
 
 <div align="center">
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/probable-telegram/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
