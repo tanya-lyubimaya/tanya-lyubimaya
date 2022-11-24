@@ -10,19 +10,18 @@
 
 <br><br>
 
-<p>
 <div align="center">
-    <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&labelColor=white">
-    <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=white">
-    <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=white">
-    <img src="https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&labelColor=white&logoColor=4479A1">
-    <img src="https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=white">
-    <img src="https://img.shields.io/badge/-quasar-1976D2?style=for-the-badge&logo=quasar&labelColor=white&logoColor=1976D2">
-    <img src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&labelColor=white">
-    <img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&labelColor=white&logoColor=1572B6">
-    <!--TODO: PostgreSQL, MongoDB, SQLite, Docker, Kubernetes-->
+
+[![Go][Go]][Go-url]
+[![Javascript][Javascript]][Javascript-url]
+[![Python][Python]][Python-url]
+[![MySQL][MySQL]][MySQL-url]
+[![Vue][Vue.js]][Vue-url]
+[![Quasar][Quasar]][Quasar-url]
+[![HTML5][HTML5]][HTML5-url]
+[![CSS3][CSS3]][CSS3-url]
+
 </div>
-</p>
 
 <br>
 
@@ -95,3 +94,32 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
+
+
+<!--LINKS-->
+[Go]: https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&labelColor=white
+[Go-url]: https://go.dev
+[Javascript]: https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=white
+[Javascript-url]: https://www.javascript.com
+[Python]: https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=white
+[Python-url]: https://www.python.org
+[Docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&labelColor=white
+[Docker-url]: https://www.docker.com
+[Kubernetes]: https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=white
+[Kubernetes-url]: https://kubernetes.io
+[PostgreSQL]: https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logo=postgresql&labelColor=white
+[PostgreSQL-url]: https://www.postgresql.org
+[MongoDB]: https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&labelColor=white
+[MongoDB-url]: https://www.mongodb.com
+[MySQL]: https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&labelColor=white&logoColor=4479A1
+[MySQL-url]: https://www.mysql.com
+[SQLite]: https://img.shields.io/badge/-sqlite-003B57?style=for-the-badge&logo=sqlite&labelColor=white
+[SQLite-url]: https://www.sqlite.org/index.html
+[Vue.js]: https://img.shields.io/badge/-vue.js-4FC08D?style=for-the-badge&logo=vue.js&labelColor=white
+[Vue-url]: https://vuejs.org
+[Quasar]: https://img.shields.io/badge/-quasar-1976D2?style=for-the-badge&logo=quasar&labelColor=white&logoColor=1976D2
+[Quasar-url]: https://quasar.dev
+[HTML5]: https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&labelColor=white
+[HTML5-url]: https://en.wikipedia.org/wiki/HTML5
+[CSS3]: https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&labelColor=white&logoColor=1572B6
+[CSS3-url]: https://en.wikipedia.org/wiki/CSS#CSS_3
