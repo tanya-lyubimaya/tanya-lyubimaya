@@ -87,3 +87,11 @@
 <br>
 
 <img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/glowing_line.gif?raw=true">
+
+<br>
+
+<div align="center">
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/probable-telegram/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
