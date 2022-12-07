@@ -74,7 +74,12 @@
     <a href="mailto:tatyana.lyubimaya.work@gmail.com">
         <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
     </a>
-    <!--TODO: Add LinkedIn-->
+    <a href="https://www.linkedin.com/in/tatyana-lyubimaya">
+        <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=0A66C2">
+    </a>
+    <a href="https://leetcode.com/tanya-lyubimaya">
+        <img src="https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=leetcode&labelColor=white">
+    </a>
 </div>
 
 <br>
