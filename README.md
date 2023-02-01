@@ -21,6 +21,8 @@
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
 
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tanya-lyubimaya)](https://github.com/tanya-lyubimaya/github-readme)
+
 </div>
 
 <br>
