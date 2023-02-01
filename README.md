@@ -40,8 +40,8 @@
 </div>
 <p> </p>
 <div align="center">
-    <a href="https://github.com/tanya-lyubimaya/gc-frontend">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=gc-frontend&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+    <a href="https://github.com/tanya-lyubimaya/date_difference_calculator">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=date_difference_calculator&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/tanya-lyubimaya/regular-commit">
@@ -54,8 +54,8 @@
         <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=speed-typing-app&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/tanya-lyubimaya/bit-operations">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=bit-operations&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+    <a href="https://github.com/tanya-lyubimaya/gc-frontend">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=gc-frontend&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
 </div>
 
