@@ -2,7 +2,7 @@
 
 <div class="container">
     <img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/dog_wink.gif?raw=true" align="right">&nbsp;
-    <h4>I'm Tanya Lyubimaya, backend developer currently living in Moscow, Russia.</h4>
+    <h4>I'm Tanya Lyubimaya, Go developer currently working and living in Moscow, Russia.</h4>
     <h4>I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
     <h4>I'm learning Go through small projects on the side.</h4>
     <h4>🌱 Currently working on a <a href="https://github.com/tanya-lyubimaya/translator">translator</a></h4>
@@ -15,13 +15,17 @@
 [![Go][Go]][Go-url]
 [![Javascript][Javascript]][Javascript-url]
 [![Python][Python]][Python-url]
+[![Docker][Docker]][Docker-url]
+[![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 [![MySQL][MySQL]][MySQL-url]
 [![Vue][Vue.js]][Vue-url]
 [![Quasar][Quasar]][Quasar-url]
+[![Linux][Linux]][Linux-url]
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tanya-lyubimaya)](https://github.com/tanya-lyubimaya/github-readme)
+
 
 </div>
 
@@ -42,22 +46,22 @@
 </div>
 <p> </p>
 <div align="center">
-    <a href="https://github.com/tanya-lyubimaya/date_difference_calculator">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=date_difference_calculator&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+    <a href="https://github.com/tanya-lyubimaya/WB_L0">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=WB_L0&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/tanya-lyubimaya/regular-commit">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=regular-commit&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
+    <a href="https://github.com/tanya-lyubimaya/date_difference_calculator">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=date_difference_calculator&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
 </div>
 <p> </p>
 <div align="center">
-    <a href="https://github.com/tanya-lyubimaya/speed-typing-app">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=speed-typing-app&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
+    <a href="https://github.com/tanya-lyubimaya/regular-commit">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=regular-commit&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
     <span>&nbsp;</span>
-    <a href="https://github.com/tanya-lyubimaya/gc-frontend">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=gc-frontend&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+    <a href="https://github.com/tanya-lyubimaya/bit_operations">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=bit_operations&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
 </div>
 
@@ -85,7 +89,7 @@
     <a href="mailto:tatyana.lyubimaya.work@gmail.com">
         <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/tatyana-lyubimaya">
+    <a href="https://www.linkedin.com/in/talyubimaya">
         <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&labelColor=white&logoColor=0A66C2">
     </a>
     <a href="https://leetcode.com/tanya-lyubimaya">
@@ -139,3 +143,5 @@
 [HTML5-url]: https://en.wikipedia.org/wiki/HTML5
 [CSS3]: https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&labelColor=white&logoColor=1572B6
 [CSS3-url]: https://en.wikipedia.org/wiki/CSS#CSS_3
+[Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=white&logoColor=black
+[Linux-url]: https://www.linux.org
