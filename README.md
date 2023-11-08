@@ -2,10 +2,10 @@
 
 <div class="container">
     <img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/dog_wink.gif?raw=true" align="right">&nbsp;
-    <h4>I'm Tanya Lyubimaya, Go developer currently working and living in Moscow, Russia.</h4>
+    <h4>I'm Tanya Lyubimaya, middle Go developer currently working and living in Moscow, Russia.</h4>
     <h4>I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
-    <h4>I'm learning Go through small projects on the side.</h4>
-    <h4>🌱 Currently working on a <a href="https://github.com/tanya-lyubimaya/translator">translator</a></h4>
+    <h4>In my spare time I do small projects on the side.</h4>
+    <h4>🌱 Currently learning gRPC via making a <a href="https://github.com/tanya-lyubimaya/grpc-exporter">gRPC exporter</a></h4>
 </div>
 
 <br><br>
@@ -36,32 +36,42 @@
 ## 📌 Pinned Projects
 
 <div align="center">
+    <a href="https://github.com/tanya-lyubimaya/grpc-exporter">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=grpc-exporter&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/tanya-lyubimaya/lc">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=lc&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+    </a>
+</div>
+<p> </p>
+<div align="center">
     <a href="https://github.com/tanya-lyubimaya/translator">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=translator&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=translator&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/tanya-lyubimaya/translator-frontend">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=translator-frontend&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=translator-frontend&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
 </div>
 <p> </p>
 <div align="center">
     <a href="https://github.com/tanya-lyubimaya/WB_L0">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=WB_L0&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=WB_L0&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/tanya-lyubimaya/date_difference_calculator">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=date_difference_calculator&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=date_difference_calculator&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
 </div>
 <p> </p>
 <div align="center">
     <a href="https://github.com/tanya-lyubimaya/regular-commit">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=regular-commit&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=regular-commit&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/tanya-lyubimaya/bit_operations">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=bit_operations&border_color=00BAE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=EE4779" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanya-lyubimaya&repo=bit_operations&border_color=EE4779&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=00BAE9" />
     </a>
 </div>
 
@@ -75,7 +85,7 @@
   </a>
 </div>
 
-[![Tanya Lyubimaya's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanya-lyubimaya&custom_title=Tanya%20Lyubimaya's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/tanya-lyubimaya/github-readme-activity-graph)
+[![Tanya Lyubimaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanya-lyubimaya&custom_title=Tanya%20Lyubimaya's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/tanya-lyubimaya/github-readme-activity-graph)
 <br>
 
 ## ✉️ Contact Me
